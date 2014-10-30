@@ -16,13 +16,13 @@
 </head>
 <body>
 	<div class="container">
-		<p class="text-center"><span "class=glyphicon glyphicon-fire"></span><strong>Let's go CAV.</strong> </p>
+		<h1><p class="text-center"><span class="glyphicon glyphicon-fire"></span><strong>Let's go CAV.</strong> </p></h1>
 		
 		<table class="table table-bordered table-striped">
 		<tr class="active">
-		<th>CAV</th>
-		<th>jersy number</th>
-		<th>player</th>
+		<th><h3>CAV</h3></th>
+		<th><h3>jersy number</h3></th>
+		<th><h3>player</h3></th>
 		</tr>
 		<tr>
 		<th class="success"></th>
