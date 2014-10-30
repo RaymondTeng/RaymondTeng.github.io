@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>document</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap-theme.min.css">
 	 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -15,8 +16,34 @@
 </head>
 <body>
 	<div class="container">
-		<h1>hellow world</h1>
-		 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<p class="text-center"><span "class=glyphicon glyphicon-fire"></span><strong>Let's go CAV.</strong> </p>
+		
+		<table class="table table-bordered table-striped">
+		<tr class="active">
+		<th>CAV</th>
+		<th>jersy number</th>
+		<th>player</th>
+		</tr>
+		<tr>
+		<th class="success"></th>
+		<td>6</td>
+		<td>Lebron James</td>
+		</tr>
+		<tr>
+		<th class="success"></th>
+		<td>2</td>
+		<td>Kyrie Irving</th>
+		</tr>
+		<tr>
+		<th class="success"></th>
+		<td>0</td>
+		<td>Kevin Love</th>
+		</tr>
+		</table>
+		</div>
+		<button type="button" class="btn btn-success btn-lg" >Champion</button>
+
+
 		 <script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
 	</div>
 </body>
